@@ -139,6 +139,10 @@ p {
   padding: 3% 2%;
 }
 
+.social-icon {
+  margin: 20px 10px;
+}
+
 @media (max-width: 1028px) {
   #title {
     text-align: center;
